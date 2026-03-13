@@ -1,23 +1,18 @@
 {
-  "jalopy_jungle": {
-    "site_name": "Pick-A-Part Jalopy Jungle",
-    "base_url": "https://inventory.pickapartjalopyjungle.com",
-    "inventory_url": "https://inventory.pickapartjalopyjungle.com/",
+  "yard_1": {
+    "site_name": "",
+    "base_url": "",
+    "inventory_url": "",
     "locations": [
-      { "id": "boise",       "name": "Boise" },
-      { "id": "nampa",       "name": "Nampa" },
-      { "id": "caldwell",    "name": "Caldwell" },
-      { "id": "garden_city", "name": "Garden City" },
-      { "id": "twin_falls",  "name": "Twin Falls" }
+      { "id": "", "name": "" }
     ]
   },
-  "trusty": {
-    "site_name": "Trusty Auto Parts",
-    "base_url": "https://trustypickapart.com",
-    "inventory_url": "https://inventory.trustypickapart.com",
+  "yard_2": {
+    "site_name": "",
+    "base_url": "",
+    "inventory_url": "",
     "locations": [
-      { "id": "boise",    "name": "Boise" },
-      { "id": "meridian", "name": "Meridian" }
+      { "id": "", "name": "" }
     ]
   }
 }
