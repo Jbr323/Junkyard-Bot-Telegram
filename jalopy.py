@@ -1,6 +1,6 @@
 """
 scrapers/jalopy.py - Jalopy Jungle inventory scraper
-URL: https://inventory.pickapartjalopyjungle.com
+URL: 
 Location: id=yard-id (ALL CAPS)
 Make: id=car-make (ALL CAPS)
 Model: id=car-model (ALL CAPS)
@@ -13,9 +13,9 @@ import sys
 from datetime import datetime
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
-INVENTORY_URL = "https://inventory.pickapartjalopyjungle.com/"
-YARD_NAME     = "Jalopy Jungle"
-LOCATIONS     = ["Boise", "Nampa", "Caldwell", "Garden City", "Twin Falls"]
+INVENTORY_URL = ""
+YARD_NAME     = ""
+LOCATIONS     = ["", "", "", "", ""]
 
 
 def _norm(s: str) -> str:
