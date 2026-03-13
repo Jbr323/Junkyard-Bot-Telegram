@@ -12,9 +12,9 @@ import sys
 from datetime import datetime
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
-INVENTORY_URL = "https://inventory.trustypickapart.com"
-YARD_NAME     = "Trusty Pick-A-Part"
-LOCATION_NAME = "Caldwell"
+INVENTORY_URL = ""
+YARD_NAME     = ""
+LOCATION_NAME = ""
 
 
 def _norm(s: str) -> str:
