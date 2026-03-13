@@ -1,6 +1,6 @@
 """
 scrapers/trusty.py - Trusty Pick-A-Part inventory scraper
-URL: https://inventory.trustypickapart.com
+URL: 
 Make select: id=car-make, name=VehicleMake
 Model select: id=car-model, name=VehicleModel
 Table columns: YEAR | MAKE | MODEL | ROW
